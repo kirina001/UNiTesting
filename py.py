@@ -4,11 +4,11 @@ while True:
     
     #write
 
-    f = open('test0.txt', 'a')
+    f = open('test69.txt', 'a')
     f.write(".")
 
     #Add
     os.system('git add .')
-    os.system('git commit -m "1"')
-    i=i+1
+    os.system('git commit -m "69"')
+    i=i+69
     print(str(i)+':commits')
